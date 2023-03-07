@@ -1,0 +1,47 @@
+{
+  "Us": [
+    {
+      "fullname": "sum",
+      "email": "sum@gmail.com",
+      "password": "sum",
+      "mobile": 12345,
+      "id": 1,
+      "income": 500000,
+      "threshold": 250000
+    },
+    {
+      "fullname": "prakash",
+      "email": "sum@gmail.com",
+      "password": "prakash",
+      "mobile": 3535,
+      "id": 2,
+      "income": 67,
+      "threshold": 57
+    },
+    {
+      "fullname": "hee",
+      "email": "hee@gmail.com",
+      "password": "hee",
+      "mobile": 3232,
+      "id": 3,
+      "income": 567,
+      "threshold": 32
+    },
+    {
+      "fullname": "bals",
+      "email": "hee@gmail.com",
+      "password": "hee",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "fullname": "bala",
+      "email": "bals@gmail.com",
+      "password": "bals",
+      "mobile": 6789,
+      "id": 5,
+      "income": 5666,
+      "threshold": 566
+    }
+  ]
+}

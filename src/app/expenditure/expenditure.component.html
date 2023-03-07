@@ -1,0 +1,9 @@
+<div style="background-color: aquamarine">
+    <form [formGroup]="expenses" (ngSubmit)="expenditure()">
+        <div class="exp" style="color:rgb(214, 86, 43); text-decoration:blue;" >Expenditure type</div>
+        <input type="text" class="expend" formControlName="expType"><br><br>
+        <div class="exp-value" style="color:rgb(214, 86, 43); text-decoration:blue;">Expenditure value</div>
+        <input type="number" class="threshold" formControlName="expValue"><br><br>
+        <button type="submit" class="btn btn-primary">Submit</button><br><br>
+    </form>
+</div>
